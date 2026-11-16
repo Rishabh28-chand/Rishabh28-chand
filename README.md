@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I'm Rishabh Chand 👋
 
-<!--
-**Rishabh28-chand/Rishabh28-chand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Computer Science Engineering Student
 
-Here are some ideas to get you started:
+I'm an aspiring Software Developer interested in Artificial Intelligence, Machine Learning, and Cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Pursuing B.Tech in Computer Science Engineering
+- 💻 Learning Python, C, Java and Swift
+- 🧠 Exploring Data Structures & Algorithms
+- 🤖 Interested in AI & Machine Learning
+- 🔐 Exploring Cybersecurity
+- 🚀 Building projects and learning new technologies
+
+🛠️ Technologies & Tools
+
+- Languages: C, Python, Java, Swift
+- Web: HTML, CSS
+- iOS Development: SwiftUI
+- Areas of Interest: AI/ML, Cybersecurity, Software Development
+
+🎯 Current Goals
+
+- Strengthen programming fundamentals
+- Improve problem-solving skills
+- Build real-world projects
+- Explore AI/ML and Cybersecurity
+
+📫 Connect With Me
+
+- GitHub: "Rishabh28-chand" (https://github.com/Rishabh28-chand)
+
+---
+
+⭐ Learning, Building, and Growing Every Day.
